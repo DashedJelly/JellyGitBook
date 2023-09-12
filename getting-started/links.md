@@ -19,7 +19,8 @@ description: Official Links of The Jelly Collective
 [Discord](https://discord.gg/thejellycollective)\
 [Twitter](https://twitter.com/jellycollective)[\
 ](https://twitter.com/jellycollective)[Zealy](https://zealy.io/c/thejellycollective/questboard)\
-[Subber](https://www.subber.xyz/thejellycollective)
+[Subber](https://www.subber.xyz/thejellycollective)\
+[PAWS / Charity Partner](https://www.paws.org)
 
 ***
 

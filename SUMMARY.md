@@ -14,3 +14,7 @@
 ## 🦠 The JellEvolution
 
 * [🧬 A Guide To Evolve](the-jellevolution/a-guide-to-evolve.md)
+
+## 🐶 Charity Partners
+
+* [🐾 PAWS 😸🐶🦅🐻](charity-partners/paws.md)

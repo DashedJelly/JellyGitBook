@@ -25,3 +25,14 @@ Jelly Dough ($JDOH) serves as the core utility token for our community. It offer
 **$JDOH Liquidity Pool:**
 
 <mark style="color:purple;">$JDOH is paired with USDT and contributes to a Uniswap V3 Concentrated Liquidity Pool Contract.</mark>
+
+
+
+## Swap for Jelly Dough ($JDOH)
+
+Token Address = [0xc942A0B775A26018B90707D5Df8fd30EedB6eee8](https://polygonscan.com/address/0xc942A0B775A26018B90707D5Df8fd30EedB6eee8)
+
+* Jelly Dough is able to be swapped for any other token on the Polygon Blockchain
+* The Collectives first method to swap is straight from the source at [Sushi.com](https://www.sushi.com)
+* Conveniently also available to be swap via [Metamask](https://metamask.io/) App or Extension&#x20;
+

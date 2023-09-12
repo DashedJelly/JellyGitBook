@@ -157,7 +157,7 @@ _Embrace the privilege of staking within the Lab Creation Collection._
 
 🛍️ **Exclusive Acquisition**&#x20;
 
-_Eyeing a Jelly Lab Creation? Embark on an exclusive journey at_ [_Dew.gg_](https://www.dew.gg) _to bring your vision to life._
+_Eyeing a Jelly Lab Creation? Embark on an exclusive journey at_ [_Dew.gg_](https://dew.gg) _to bring your vision to life._
 
 </details>
 

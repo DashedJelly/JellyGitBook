@@ -2,7 +2,7 @@
 description: Official Links of The Jelly Collective
 ---
 
-# 🍞 Links
+# 💻 Links
 
 <div align="left">
 
@@ -12,7 +12,7 @@ description: Official Links of The Jelly Collective
 
 ***
 
-## Website & Socials
+## <mark style="color:purple;">Website & Socials</mark>
 
 [Website](https://www.thejellycollective.club/)
 
@@ -23,7 +23,7 @@ description: Official Links of The Jelly Collective
 
 ***
 
-## Marketplaces
+## <mark style="color:purple;">Marketplaces</mark>
 
 [<mark style="color:blue;">**Opensea:**</mark>](https://www.opensea.io)\
 \
@@ -39,7 +39,7 @@ description: Official Links of The Jelly Collective
 
 ***
 
-## Contracts
+## <mark style="color:purple;">Contracts</mark>
 
 \
 [Marketplace](https://polygonscan.com/address/0x9b2516Dfa2244F054E12C4414a1aCC5358b80560)\

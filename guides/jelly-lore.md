@@ -5,11 +5,9 @@ description: >-
   delectable breads.
 ---
 
-# ✨ Jelly Lore
+# 🏛 Jelly Lore
 
-
-
-## A Chilled Beginning
+## <mark style="color:purple;">A Chilled Beginning</mark>
 
 In the realm of interdimensional wonders, there existed a peculiar species known really only\
 as the Jelly. Named by Lab Portal Technicians, these intelligent beings were like floating wads of translucent jelly, drifting gracefully through technological portals that connected their world to countless others. Their existence was filled with a relentless curiosity, driving them to seek adventure, companionship, and, above all else, the allure of delicious breads from different dimensions.
@@ -20,10 +18,22 @@ As they stumbled through the blizzard wasteland, disoriented and chilled to the 
 
 The first encounters with these Jelly beings were both bewildering and varied. Some of these mutated ice Jellies were hostile, their motivations unclear as they launched attacks on the disoriented adventurers. Others, however, extended a helping aid, guiding the lost souls through the treacherous icy terrain and offering sustenance in the form of strange but oddly comforting bread-like creations from their own dimension.
 
-#### A Mysterious Lab
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="182"><figcaption></figcaption></figure>
+
+</div>
+
+#### <mark style="color:purple;">A Mysterious Lab</mark>
 
 Amidst the chaos and uncertainty, a recurring warning echoed among the Jelly Characters: a mysterious Research Lab Structure hidden somewhere in this icy wasteland. These beings, some friendly and others not, all spoke of the enigmatic lab with a sense of dread, cautioning the adventurers to stay away. Their warnings were ominous, describing it as a place of dark experiments and perilous secrets that were best left undisturbed.
 
 However, the adventurers, driven by their insatiable curiosity and desire for answers, paid little heed to these warnings. They forged onward, determined to uncover the truth behind their inexplicable predicament. Their journey into the heart of the blizzard wasteland was fraught with danger, and lives were indeed lost as they ventured deeper into the unknown.
 
 The Research Lab Structure loomed ever closer, its shadowy presence casting a foreboding chill over their quest. What mysteries and dangers awaited them within its icy depths? Only time would reveal the true nature of this enigmatic place and the secrets it held, as the adventurers pressed on, guided by their relentless spirit of exploration, even in the face of perilous consequences.
+
+<div align="right" data-full-width="false">
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>

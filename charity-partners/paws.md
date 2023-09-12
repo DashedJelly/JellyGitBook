@@ -1,5 +1,5 @@
 ---
-description: Progress Animal Wellness Society
+description: Progressive Animal Welfare Society
 ---
 
 # 🐾 PAWS 😸🐶🦅🐻

@@ -27,21 +27,36 @@ layout:
 
 <figure><img src=".gitbook/assets/collective.jpg" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">What is Jelly?</mark>
+## <mark style="color:purple;">What's goin' on here?</mark>
 
-We take pride in our collaborations with nonprofit charity projects dedicated to animal welfare, a holistic approach not only empowers our community but also enables us to make a meaningful impact on causes that resonate deeply with us.\
-\
-At the heart of the Jelly Collective, it is our commitment to create a unique and unparalleled experience within the WEB3 Universe. \
-\
-This mission transcends the mere cultivation of a robust community, encompassing the realms of art, character creation, storytelling, and the pioneering integration of groundbreaking innovations in blockchain technology, gaming, and Metaverse expansion. \
+💖 **Our Commitment to Change** 💖\
+We are more than just a digital entity; we’re a force for positive change.
 
+\
+🐾 **Animal Welfare**: Collaborating with nonprofit charity projects, we passionately champion causes dedicated to animal welfare. This holistic approach not only elevates our community but etches a significant mark on causes we deeply resonate with.
+
+💡 **Empowering Our Jelly Community** 💡\
+We believe in the untapped potential of every individual. Our commitment is twofold:
+
+* **Growth**: We create platforms and opportunities for everyone to shine, ensuring each member reaches their pinnacle of success.
+* **Togetherness**: Fostering a space where everyone feels heard, valued, and integral to our collective journey.
+
+💫 **The Essence of Jelly Collective** 💫
+
+\
+🎨 **Artistic Excellence**: We venture beyond the ordinary, carving out a niche in art, character creation, and evocative storytelling.\
+🌐 **WEB3 Vision**: Our focus extends beyond mere community building. We're at the forefront, blending the wonders of blockchain technology, groundbreaking gaming innovations, and the limitless expanses of the Metaverse.
+
+***
+
+Step into our world, where each pixel carries a purpose, every story holds a promise, and every innovation ignites inspiration.
 
 ## <mark style="color:purple;">Utility</mark>&#x20;
 
 **The Collective Token : Jelly Dough ($JDOH)**
 
-* **Token Type:** ERC20 Token
-* **Blockchain:** Polygon
+* <mark style="color:purple;">**Token Type:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">ERC20 Token</mark>
+* <mark style="color:purple;">**Blockchain:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Polygon</mark>
 
 Jelly Dough ($JDOH) serves as the core utility token for the collective.&#x20;
 

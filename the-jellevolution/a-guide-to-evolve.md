@@ -10,7 +10,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/evobanner.jpg" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">The Evo-Jelly Collection</mark>&#x20;
+## <mark style="color:purple;">A New Era of Bread 🍞</mark>&#x20;
 
 Introducing a new era in the world of NFTs with the revolutionary Evo Collection!
 
@@ -20,8 +20,7 @@ Diving deeper into the roots of the Evo Collection, it's a harmonious amalgamati
 
 🌟 Proudly presenting the newly merged collection that symbolizes unity and progression:
 
-* The Alpha Jelly Collection
-* Jelly3DropZ
+* ## <mark style="color:purple;">The EV0-Jelly Collection</mark>&#x20;
 
 Drawing its essence from the mesmerizing artwork and distinctive traits of the Alpha Jelly, the Evo Collection showcases:&#x20;
 

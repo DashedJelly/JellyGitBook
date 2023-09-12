@@ -1,8 +1,7 @@
 ---
 description: >-
-  An Evolved PFP, multifaceted lore driven WEB3 project on the Polygon
-  Blockchain, focusing on community, art, utility, and making a charitable
-  impact.
+  A multifaceted evolved PFP-Lore driven WEB3 project on the Polygon Blockchain,
+  focusing on community, art, utility, and making a charitable impact.
 cover: .gitbook/assets/purple jelly.png
 coverY: 0
 layout:

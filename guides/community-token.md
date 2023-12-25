@@ -30,7 +30,7 @@ Jelly Dough ($JDOH) serves as the core utility token for our community. It offer
 
 ## Swap for Jelly Dough ($JDOH)
 
-Token Address = [0xc942A0B775A26018B90707D5Df8fd30EedB6eee8](https://polygonscan.com/address/0xc942A0B775A26018B90707D5Df8fd30EedB6eee8)
+Token Address = [0x13eE13d70cdBd336156b9aeBBbC89432C154110e](https://polygonscan.com/address/0x13eE13d70cdBd336156b9aeBBbC89432C154110e)
 
 * Jelly Dough is able to be swapped for any other token on the Polygon Blockchain
 * The Collectives first method to swap is straight from the source at [Sushi.com](https://www.sushi.com)

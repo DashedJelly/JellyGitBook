@@ -24,7 +24,7 @@ Jelly Dough ($JDOH) serves as the core utility token for our community. It offer
 
 **$JDOH Liquidity Pool:**
 
-<mark style="color:purple;">$JDOH is paired with USDT and contributes to a Uniswap V3 Concentrated Liquidity Pool Contract.</mark>
+<mark style="color:purple;">$JDOH is paired with MATIC and contributes to a Uniswap V3 Concentrated Liquidity Pool Contract.</mark>
 
 
 

@@ -26,25 +26,26 @@ layout:
 
 <figure><img src=".gitbook/assets/collective.jpg" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">What's goin' on here?</mark>
+## <mark style="color:purple;">What's going on here?</mark>
+
+🎨 **Artistic Excellence**: We venture beyond the ordinary, carving out a niche in art, character creation, and evocative storytelling.
 
 💖 **Our Commitment to Change** 💖\
 We are more than just a digital entity; we’re a force for positive change.
 
-\
-🐾 **Animal Welfare**: Collaborating with nonprofit charity projects, we passionately champion causes dedicated to animal welfare. This holistic approach not only elevates our community but etches a significant mark on causes we deeply resonate with.
+
 
 💡 **Empowering Our Jelly Community** 💡\
 We believe in the untapped potential of every individual. Our commitment is twofold:
 
-* **Growth**: We create platforms and opportunities for everyone to shine, ensuring each member reaches their pinnacle of success.
+* **Growth**: We advocate platforms and strive to create opportunities for everyone to shine, ensuring each member reaches their pinnacle of success.
 * **Togetherness**: Fostering a space where everyone feels heard, valued, and integral to our collective journey.
 
-💫 **The Essence of Jelly Collective** 💫
-
+💫 **The Essence of Jelly Collective** 💫\
 \
-🎨 **Artistic Excellence**: We venture beyond the ordinary, carving out a niche in art, character creation, and evocative storytelling.\
-🌐 **WEB3 Vision**: Our focus extends beyond mere community building. We're at the forefront, blending the wonders of blockchain technology, groundbreaking gaming innovations, and the limitless expanses of the Metaverse.
+🌐 **WEB3 Vision**: Our focus extends beyond mere community building. We're at the forefront, blending the wonders of blockchain technology, groundbreaking gaming innovations, and the limitless expanses of the Metaverse.\
+\
+🐾 **Animal Welfare**: Collaborating with nonprofit charity projects, we passionately champion causes dedicated to animal welfare. This holistic approach not only elevates our community but etches a significant mark on causes we deeply resonate with.
 
 ***
 

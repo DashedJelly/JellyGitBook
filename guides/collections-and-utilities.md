@@ -10,6 +10,32 @@ The Jelly Collectives' art direction showcases hundreds of distinct and original
 
 <details>
 
+<summary><mark style="color:purple;">Jelly EvolutionZ</mark></summary>
+
+(_ERC721 Smart Contract)_
+
+🎨 **Introducing a New Way to Collect, Modify and Customize your Own Jelly NFT**
+
+_A Dynamic Evolved Community Created PFP collection, rich in original and evolving traits, the EVO Collection_&#x20;
+
+***
+
+#### 🛠️ **Utilities**
+
+_Experience a myriad of perks that redefine the privilege of holding an EVO:Jelly_
+
+* 🪙 Stake to Earn $JDOH&#x20;
+* 🎖️ **Collect JDOH and Purchase traits**&#x20;
+* 💼 **Holder Giveaways / Special Events**\
+  **;** Delight in an array of exclusive advantages and offerings, amplifying the essence of holding.\
+
+* 🐶 **Charity**: The EVO:Mint Donates 10% of all mints to Our Charity Pool \
+  \- Our first Pledge is Set at 1000 Matic to [PAWS ](https://www.paws.org):cat:
+
+</details>
+
+<details>
+
 <summary><mark style="color:purple;">The Jelly Genesis Collection</mark></summary>
 
 (_ERC721 Smart Contract)_

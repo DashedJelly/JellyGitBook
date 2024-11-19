@@ -33,8 +33,6 @@ layout:
 💖 **Our Commitment to Change** 💖\
 We are more than just a digital entity; we’re a force for positive change.
 
-
-
 💡 **Empowering Our Jelly Community** 💡\
 We believe in the untapped potential of every individual. Our commitment is twofold:
 
@@ -49,11 +47,11 @@ We believe in the untapped potential of every individual. Our commitment is twof
 
 ***
 
-Step into our world, where each pixel carries a purpose, every story holds a promise, and every innovation ignites inspiration.
+Step into our world, where each pixel carries a purpose, every story holds a promise, and every innovation ignites inspiration.🎨
 
-## <mark style="color:purple;">Utility</mark>&#x20;
+## <mark style="color:purple;">Community Utility Token</mark> &#x20;
 
-**The Collective Token : Jelly Dough ($JDOH)**
+**Jelly Dough ($JDOH)**
 
 * <mark style="color:purple;">**Token Type:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">ERC20 Token</mark>
 * <mark style="color:purple;">**Blockchain:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Polygon</mark>

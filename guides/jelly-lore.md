@@ -35,6 +35,6 @@ The Jellies’ arrival in our dimension marks the beginning of a new chapter in 
 
 The Jelly Collective is more than just a group of creatures; it is a story of curiosity, connection, and the boundless possibilities of the multiverse. As their story unfolds, humanity stands to learn as much about itself as it does about these captivating visitors from beyond.
 
-
+Amidst the chaos and uncertainty, a recurring warning echoed among the Jelly Characters: a mysterious Research Lab Structure hidden somewhere in this icy wasteland. These beings, some friendly and others not, all spoke of the enigmatic lab with a sense of dread, cautioning the adventurers to stay away. Their warnings were ominous, describing it as a place of dark experiments and perilous secrets that were best left undisturbed.
 
 <figure><img src="../.gitbook/assets/collective.jpg" alt=""><figcaption></figcaption></figure>

@@ -28,7 +28,8 @@ description: Official Links of The Jelly Collective
 [<mark style="color:green;">Jelly EvolutionZ - Minting Now !</mark>](https://www.thejellycollective.club/EvoMint)\
 [The Jelly Genesis Collection](https://opensea.io/collection/the-jelly-genesis-collection)\
 [The Jelly Collectible Collection\
-](https://opensea.io/collection/jelly-collectibles)[The Jelly Lab Creations\
+](https://opensea.io/collection/jelly-collectibles) \
+[The Jelly Lab Creations\
 ](https://opensea.io/collection/the-jelly-lab-creations)
 
 ***

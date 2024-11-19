@@ -5,35 +5,36 @@ description: >-
   delectable breads.
 ---
 
-# 🏛 Jelly Lore
+# 🏛️ Jelly Lore
 
-## <mark style="color:purple;">A Chilled Beginning</mark>
+#### <mark style="color:purple;">The Jelly Collective Lore</mark>
 
-In the realm of interdimensional wonders, there existed a peculiar species known really only\
-as the Jelly. Named by Lab Portal Technicians, these intelligent beings were like floating wads of translucent jelly, drifting gracefully through technological portals that connected their world to countless others. Their existence was filled with a relentless curiosity, driving them to seek adventure, companionship, and, above all else, the allure of delicious breads from different dimensions.
+In the infinite tapestry of dimensions, few beings are as enigmatic and fascinating as the Jellies. These interdimensional travelers, known collectively as _The Jelly Collective_, are amorphous, floating entities that defy traditional biological classification. With their jelly-like forms and three eyes perfectly aligned in a horizontal line, they are both a wonder to behold and a mystery to unravel. Each Jelly boasts a unique combination of colors, patterns, and shapes, reflecting the boundless creativity of the multiverse.
 
-One frosty morning, adventurers from various corners of the metaverse found themselves inexplicably transported to an icy, desolate reality. They awoke in this alien landscape, their memories hazy, struggling to recall who they were and how they had arrived in this place of perpetual ice and snow.
+<mark style="color:purple;">**The Origins of the Jellies**</mark>
 
-As they stumbled through the blizzard wasteland, disoriented and chilled to the bone, they noticed strange lights and bizarre crystalline structures that seemed to defy the laws of physics. It was as though they had been thrust into the heart of a grand cosmic experiment. Yet, despite their confusion and unease, a glimmer of hope sparked within their hearts as they realized that they were not alone.
+The Jellies stumbled upon our realm through a complex and ancient portal system that they did not create but discovered during their interdimensional explorations. Though the origins of these portals remain unknown, the Jellies’ advanced telepathic and telekinetic abilities have allowed them to harness and navigate this technology with remarkable precision. Their journey across dimensions is not random but guided by a deep thirst for knowledge and the innate curiosity that defines their species.
 
-The first encounters with these Jelly beings were both bewildering and varied. Some of these mutated ice Jellies were hostile, their motivations unclear as they launched attacks on the disoriented adventurers. Others, however, extended a helping aid, guiding the lost souls through the treacherous icy terrain and offering sustenance in the form of strange but oddly comforting bread-like creations from their own dimension.
+<mark style="color:purple;">**Their Nature and Abilities**</mark>
 
-<div align="left">
+Far from mere wanderers, the Jellies possess an extraordinary understanding of technology. They have a knack for retrofitting and adapting the artifacts they find during their dimensional travels, using their telekinetic powers to manipulate and combine materials in ways that baffle even the most brilliant human engineers. Through telepathy, they communicate seamlessly with one another, often in ways that transcend language and delve into pure emotion and thought.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="182"><figcaption></figcaption></figure>
+Physically, most Jellies are slightly larger than a basketball, their soft, translucent forms glimmering with an otherworldly light. A rare few grow to the size of a beach ball, their increased mass often marking them as elder or leader figures within the Collective. Despite their malleable shapes, the Jellies are not to be mistaken for jellyfish; their forms are far more solid and purposeful, crafted for life across infinite realms.
 
-</div>
+<mark style="color:purple;">**The Love for Bread**</mark>
 
-#### <mark style="color:purple;">A Mysterious Lab</mark>
+Among their many quirks, one trait stands out above all: an inexplicable love for bread. Scientists and lab technicians observing the Jellies have documented their seemingly instinctual ability to locate fresh bread, even when hidden away. It’s as if they possess a sixth sense attuned specifically to baked goods. This peculiar fascination with bread is as endearing as it is baffling, adding a whimsical charm to their otherwise advanced and cerebral nature.
 
-Amidst the chaos and uncertainty, a recurring warning echoed among the Jelly Characters: a mysterious Research Lab Structure hidden somewhere in this icy wasteland. These beings, some friendly and others not, all spoke of the enigmatic lab with a sense of dread, cautioning the adventurers to stay away. Their warnings were ominous, describing it as a place of dark experiments and perilous secrets that were best left undisturbed.
+<mark style="color:purple;">**The Variations of Jellies**</mark>
 
-However, the adventurers, driven by their insatiable curiosity and desire for answers, paid little heed to these warnings. They forged onward, determined to uncover the truth behind their inexplicable predicament. Their journey into the heart of the blizzard wasteland was fraught with danger, and lives were indeed lost as they ventured deeper into the unknown.
+The Jelly Collective is incredibly diverse, with countless variations of Jellies contributing to their rich and vibrant community. Each Jelly’s appearance is unique, its patterns and colors influenced by the dimensions it has traversed. Some are streaked with cosmic hues, reminiscent of starlit skies, while others bear the earthy tones of alien landscapes. These differences are not merely cosmetic but reflect the experiences and knowledge each Jelly carries within its gelatinous form.
 
-The Research Lab Structure loomed ever closer, its shadowy presence casting a foreboding chill over their quest. What mysteries and dangers awaited them within its icy depths? Only time would reveal the true nature of this enigmatic place and the secrets it held, as the adventurers pressed on, guided by their relentless spirit of exploration, even in the face of perilous consequences.
+<mark style="color:purple;">**The Mission of the Jellies**</mark>
 
-<div align="right" data-full-width="false">
+The Jellies’ arrival in our dimension marks the beginning of a new chapter in their endless journey. They come not as conquerors but as explorers, bringing with them the wisdom and tools of countless realms. Yet, for all their advanced knowledge, the Jellies maintain a playful and curious spirit, forging connections with those who seek to understand them and sharing their love for bread as a universal bridge across dimensions.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
+The Jelly Collective is more than just a group of creatures; it is a story of curiosity, connection, and the boundless possibilities of the multiverse. As their story unfolds, humanity stands to learn as much about itself as it does about these captivating visitors from beyond.
 
-</div>
+
+
+<figure><img src="../.gitbook/assets/collective.jpg" alt=""><figcaption></figcaption></figure>

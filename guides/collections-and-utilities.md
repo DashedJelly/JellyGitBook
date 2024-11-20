@@ -29,8 +29,6 @@ _Experience a myriad of perks that redefine the privilege of holding an EVO:Jell
 * 💼 **Holder Giveaways / Special Events**\
   **;** Delight in an array of exclusive advantages and offerings, amplifying the essence of holding.\
 
-* 🐶 **Charity**: The EVO:Mint Donates 10% of all mints to Our Charity Pool \
-  \- Our first Pledge is Set at 1000 Matic to [PAWS ](https://www.paws.org):cat:
 
 </details>
 

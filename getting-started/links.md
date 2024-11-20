@@ -16,7 +16,7 @@ description: Official Links of The Jelly Collective
 
 [Website](https://www.thejellycollective.club/)
 
-[Discord](https://discord.gg/thejellycollective)\
+[Discord](https://discord.gg/grhMwXzRpF)\
 [Twitter](https://twitter.com/jellycollective)[\
 ](https://twitter.com/jellycollective)\
 [PAWS / Charity Partner](https://www.paws.org)

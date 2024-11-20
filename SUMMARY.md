@@ -11,6 +11,7 @@
 * [🏛️ Jelly Lore](guides/jelly-lore.md)
 * [🍞 Collections and Utilities](guides/collections-and-utilities.md)
 
-## 🐶 Charity Partners
+## 🐶 Community Partners
 
-* [🐾 PAWS 😸🐶🦅🐻](charity-partners/paws.md)
+* [🐾 PAWS 😸🐶🦅🐻](community-partners/paws.md)
+* [🦑 SquidInk Reborn](community-partners/squidink-reborn.md)

@@ -4,17 +4,13 @@ description: Official Links of The Jelly Collective
 
 # 💻 Links
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/JClogo.png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/JClogo.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ***
 
-## <mark style="color:purple;">Website & Socials</mark>
+## <mark style="color:purple;">Webapp & Socials</mark>
 
-[Website](https://www.thejellycollective.club/)
+JellyApp
 
 [Discord](https://discord.gg/grhMwXzRpF)\
 [Twitter](https://twitter.com/jellycollective)[\
@@ -25,7 +21,7 @@ description: Official Links of The Jelly Collective
 
 ## <mark style="color:purple;">Collections</mark>
 
-[<mark style="color:green;">Jelly EvolutionZ - Minting Now !</mark>](https://www.thejellycollective.club/EvoMint)\
+<mark style="color:green;">Jelly EvolutionZ</mark>\
 [The Jelly Genesis Collection](https://opensea.io/collection/the-jelly-genesis-collection)\
 [The Jelly Collectible Collection\
 ](https://opensea.io/collection/jelly-collectibles) \

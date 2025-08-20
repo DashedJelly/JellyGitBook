@@ -1,23 +1,9 @@
 ---
 description: >-
   A multifaceted evolved PFP-Lore driven WEB3 project on the Polygon Blockchain,
-  focusing on community, art, utility, and making a charitable impact.
+  focusing on community, art, utility, and development.
 cover: .gitbook/assets/purple jelly.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🍞 About The Jelly Collective
